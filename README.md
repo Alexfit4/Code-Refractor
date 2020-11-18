@@ -6,7 +6,7 @@ First homework assignment for George Washington University Full Stack Web Develo
 
 The major goal of this project is to refactor the code for a website to meet web accessibility standards.
 
-Deployed Github Page:https://alexfit4.github.io/gw1sthw/
+Deployed Github Page:https://alexfit4.github.io/Code-Refractor/
 
 Repo Link:https://github.com/Alexfit4/gw1sthw
 
